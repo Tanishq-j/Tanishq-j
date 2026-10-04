@@ -101,6 +101,6 @@ Rather than just building standard web applications, I focus on the architecture
 
 * 🏅 **Finalist:** Smart India Hackathon (SIH) 2024
 
-* 🚀 **6x National Hackathon Winner:** Consistently ranked in the top 3 across multiple competitive, nationwide technical events.
+* 🚀 **6x National Hackathon Podium:** Consistently ranked in the top 3 across multiple competitive, nationwide technical events.
 
 ***
