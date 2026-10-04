@@ -104,14 +104,3 @@ Rather than just building standard web applications, I focus on the architecture
 * 🚀 **6x National Hackathon Winner:** Consistently ranked in the top 3 across multiple competitive, nationwide technical events.
 
 ***
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-j&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Tanishq's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq-j&theme=radium&hide_border=true&background=0D1117" alt="Tanishq's GitHub Streak" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
-</p>
